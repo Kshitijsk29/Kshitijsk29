@@ -1,11 +1,13 @@
 ### Hi there 👋
-
+<h1>Hi 👋, I'm Kshitij Raypale</h1>
 <!--
 **Kshitijsk29/Kshitijsk29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+Creating my personal projects, integration View with Jetpack Compose and Test's in Android
+Integration with API's, Android.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
