@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning 
     <ul>
       <li>Creating my personal projects in Android</li>
-      <li>Advance Android Native</li>
+      
   </ul>
 
 - 💬 Ask me about **Android, Kotlin, Java, Oracle and Html, CSS ,Js for web**
