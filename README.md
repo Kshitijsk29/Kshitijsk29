@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning 
     <ul>
-      <li>Creating my personal projects, integration View with Jetpack Compose and Test's in Android</li>
+      <li>Creating my personal projects in Android</li>
       <li>Advance Android Native</li>
   </ul>
 
